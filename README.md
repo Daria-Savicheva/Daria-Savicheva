@@ -4,8 +4,6 @@
 Junior QA Engineer
 -----------
 
-Second-year student of Hexlet college. Information systems and programming.
-
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [dariasavicheva00@gmail.com](mailto:dariasavicheva00@gmail.com)
 
