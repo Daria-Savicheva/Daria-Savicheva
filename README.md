@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Daria Savicheva
 ----------------
 
-Junior QA Engineer
+QA Engineer
 -----------
 
 * 🌍  I'm based in Moscow
